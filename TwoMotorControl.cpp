@@ -128,7 +128,7 @@ void setup() {
 
 void loop() {
 	m1->tick();
-    m2->tick();
+	m2->tick();
 	delayMicroseconds(10);
 }
 
